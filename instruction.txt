@@ -1,0 +1,5 @@
+to compile please use javac *.java on the command line
+
+to run use java life (iteration) (dimension) (pattern)
+
+iteration, dimension and pattern are parameters.
